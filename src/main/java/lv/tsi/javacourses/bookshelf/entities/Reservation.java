@@ -32,7 +32,7 @@ import javax.persistence.*;
         public void setId(Long id) {
             this.id = id;
         }
-        ////
+
 
         public Book getBook() {
             return book;
